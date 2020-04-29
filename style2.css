@@ -7,12 +7,14 @@ body {
   justify-content: center;
   margin: auto;
 }
+
 body {
   background: #f3f4f4;
   font-family:"source Sans";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 .box{
   background: #fff;
   border-radius: .625rem;
@@ -135,6 +137,7 @@ button:focus{
 .bold{
   font-weight: 600;
 }
+
 @media (max-width: 480px) {
     .box{
       display: flex;
